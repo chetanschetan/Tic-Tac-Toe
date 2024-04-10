@@ -14,5 +14,6 @@ If a button is clicked, It will get disabled automatically so that the player ca
 
 
 # Also Display if the match is DRAW...
+And you can click the New Game button to start a new game!
 
 ![Screenshot 2024-04-10 152249](https://github.com/chetanschetan/Tic-Tac-Toe/assets/161132484/119b4a03-5598-43c4-84bb-a8ff45c64ad0)
